@@ -1,4 +1,4 @@
-# Geospatial-Analysis-of-Healthy-Food-Availability-Scores-and-Fast-Food-Outlet-Density-in-Baltimore-MD
+# Geospatial-Analysis-of-Healthy-Food-Availability-Scores-and-median-household-income-in-Baltimore-MD
 
 ## Full data analysis can be found in this [Google Colab notebook](https://github.com/apate139/Geospatial-Analysis-of-Healthy-Food-Availability-Scores-and-Fast-Food-Outlet-Density-in-Baltimore-MD/blob/main/Geospatial_Analysis_HFAI_MedHHI_FFDO_1000Residents.ipynb)
 
